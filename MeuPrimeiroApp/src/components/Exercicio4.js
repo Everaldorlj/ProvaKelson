@@ -3,7 +3,7 @@ import React from 'react'
 
 const Exercicio4 = () => {
 
-    const alunos = ['Thiago', 'Gustavo', 'Wisley', 'João']
+    const alunos = ['Everaldo', 'Angelo', 'Pontes', 'Juan']
 
   return (
     <View>
